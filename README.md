@@ -13,8 +13,8 @@ This project focuses on the intersection of healthcare and technology, providing
 
 ## 🛠 Tech Stack
 - **Language:** Python (logic & backend)
-- **Frameworks:** [Добавь, если использовала, например, Kivy / Flask / FastAPI]
-- **Design:** Figma (Design System & Prototyping)
+- **Frameworks:** Kivy / Flask / FastAPI
+- **Design:** Figma (Design System &Prototyping)
 
 ## 🎨 Design & Accessibility
 I specifically designed the UI for two distinct personas:
