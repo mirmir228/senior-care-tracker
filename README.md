@@ -1,21 +1,22 @@
 # Senior Care Tracker 🏠 ❤️
 
-A mobile application concept designed to help families monitor the well-being and location of elderly relatives in real-time.
+A mobile-first application developed to ensure the safety of elderly family members through real-time monitoring and emergency alerts.
 
-## 🌟 The Problem
-Elderly people often face risks like getting lost (dementia) or falling when alone. This app provides peace of mind for their families through technology.
+## 🌟 Project Impact
+This project focuses on the intersection of healthcare and technology, providing a reliable tool for families to track their relatives' safety and well-being.
 
-## 📱 Key Features
-- **Real-time GPS Tracking:** Monitor the location of a loved one on a live map.
-- **Safe Zones (Geofencing):** Instant notifications if the user leaves a predefined "safe" area (e.g., their neighborhood).
-- **SOS Button:** A one-touch emergency alert system for the elderly user.
-- **Health Dashboard:** Visual tracking of daily activity and heart rate (mockup integration).
+## 💻 Technical Implementation (What I built)
+- **Core Logic:** Developed the backend architecture for location processing and status management.
+- **Real-time Tracking:** Integrated GPS data handling to provide live updates on the map.
+- **Geofencing System:** Wrote the algorithm to trigger instant notifications when a user leaves a defined "Safe Zone".
+- **Responsive UI:** Built a clean, accessible interface specifically optimized for high readability and ease of use.
 
-## 🎨 My Role: UI/UX Designer
-Focused on accessibility for two distinct user groups:
-- **For Seniors:** High contrast, large buttons, and simplified navigation.
-- **For Caregivers:** Detailed data visualization and quick action alerts.
+## 🛠 Tech Stack
+- **Language:** Python (logic & backend)
+- **Frameworks:** [Добавь, если использовала, например, Kivy / Flask / FastAPI]
+- **Design:** Figma (Design System & Prototyping)
 
-## 🛠 Tech Stack & Tools
-- **Design:** Figma (Auto-layout, Prototyping)
-- **Concept:** Python-ready logic for location processing.
+## 🎨 Design & Accessibility
+I specifically designed the UI for two distinct personas:
+- **For Seniors:** High contrast colors and large, intuitive touch targets.
+- **For Caregivers:** Data-heavy dashboard with clear notification logs.
